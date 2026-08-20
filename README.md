@@ -19,6 +19,6 @@ Desenvolvimento de um pipeline *End-to-End* que simula o fluxo de aprovação de
 * SQL
 
 ## ⚙️ Como executar este projeto
-1. Clone o repositório: `git clone [link-do-repositorio]`
+1. Clone o repositório: [git clone https://github.com/marcosjcn94-bit/liveness-detection-pipeline.git]
 2. Inicialize o servidor Docker: `docker compose up -d`
 3. Acesse o Airflow no navegador: `http://localhost:8080`
